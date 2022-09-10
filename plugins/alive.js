@@ -33,8 +33,8 @@ Module({
   var myid = message.client.user.id.split(":")[0]
   var buttons = [{
     urlButton: {
-        displayText: 'Github',
-        url: 'https://github.com/souravkl11/raganork'
+        displayText: 'GRUP',
+        url: 'https://chat.whatsapp.com/Bg6UMa8ukSZJLZA4RNT8mx'
     }
 }, {
   urlButton: {
